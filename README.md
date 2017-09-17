@@ -6,6 +6,9 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - Unity 2017.1.0p4
 - GVR Unity SDK v1.70.0
 - Platform is Android
+
+- I tried uncompressed lightmap, but did not notice any visible changes. Not sure what this does.
+
 - It took me 6 hours to complete the project. I had to watch the videos again when necessary.
 - The project helped me to understand the unity editor better
-- The light settings ar difficult to understand initially
+- The light settings are difficult to understand initially
