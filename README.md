@@ -12,3 +12,5 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - It took me 6 hours to complete the project. I had to watch the videos again when necessary.
 - The project helped me to understand the unity editor better
 - The light settings are difficult to understand initially
+
+- Sound Clip taken from "http://soundbible.com/2175-Street.html"
